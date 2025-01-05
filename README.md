@@ -1,0 +1,1 @@
+# java_pattern_project_wszib_plugin
